@@ -1,0 +1,29 @@
+{
+  "name": "reactjs-tictactoe-board",
+  "version": "1.0.0",
+  "description": "A ReactJS TicTacToe Board",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheushpitz/reactjs-tictactoe-board.git"
+  },
+  "keywords": [
+    "tictactoe",
+    "board",
+    "reactjs",
+    "game"
+  ],
+  "author": "Matheus Pitz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matheushpitz/reactjs-tictactoe-board/issues"
+  },
+  "homepage": "https://github.com/matheushpitz/reactjs-tictactoe-board#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "react": "^16.8.6"
+  }
+}
